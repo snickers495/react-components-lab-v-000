@@ -2,7 +2,7 @@
 import ReactDOM from 'react-dom';
 import React from 'react';
 
-class Older 
+class OlderCoaster 
 
 const BUTCHER_PRODUCTS = [
   'Tenderloin',
