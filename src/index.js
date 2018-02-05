@@ -2,7 +2,7 @@
 import ReactDOM from 'react-dom';
 import React from 'react';
 
-class OlderCoaster extends React.C
+class OlderCoaster extends React.Component 
 
 const BUTCHER_PRODUCTS = [
   'Tenderloin',
