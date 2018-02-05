@@ -2,6 +2,8 @@
 import ReactDOM from 'react-dom';
 import React from 'react';
 
+class 
+
 const BUTCHER_PRODUCTS = [
   'Tenderloin',
   'Short ribs',
