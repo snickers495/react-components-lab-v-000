@@ -8,7 +8,7 @@ class OlderCoaster extends React.Component {
       React.createElement('p', {}, 'Two grannies having the time of their life!'),
       React.createElement('p', {}, 'Passengers:'),
       React.createElement('ul', {}, [
-        React.createElement('li', {})
+        React.createElement('li', {}, 'Agnes')
       ])
 
     )
