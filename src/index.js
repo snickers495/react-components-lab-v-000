@@ -4,7 +4,7 @@ import React from 'react';
 
 class OlderCoaster extends React.Component {
   render(
-    return React.
+    return React.createElement()
   )
 }
 
