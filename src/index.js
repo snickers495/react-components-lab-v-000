@@ -6,7 +6,7 @@ class OlderCoaster extends React.Component {
   render(
     return React.createElement('div', {className: 'butcher-shop'},
       React.createElement('p', {}, 'Hello! We have the following products for sale today:'),
-      React.createElement('ul', {}, 'Sometimes, the solution is right in front of you.')
+      React.createElement('ul', {}, )
     )
   )
 }
