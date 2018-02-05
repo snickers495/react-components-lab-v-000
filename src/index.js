@@ -4,7 +4,7 @@ import React from 'react';
 
 class OlderCoaster extends React.Component {
   render(
-    return React.createElement('div', {className},
+    return React.createElement('div', {className: },
       React.createElement('p', {}, 'You shouldn\'t look too far.'),
       React.createElement('p', {}, 'Sometimes, the solution is right in front of you.')
     )
@@ -21,7 +21,7 @@ const BUTCHER_PRODUCTS = [
 // Define these exported classes
 export class OlderCoaster extends React.Component {
   render(
-  return React.createElement('div', {className="oldercoaster"},
+  return React.createElement('div', {className:"oldercoaster"},
     React.createElement('p', {}, 'Two grannies having the time of their life!'),
     React.createElement('p', {}, 'Passengers:'),
     React.createElement('ul', {}, [
