@@ -6,7 +6,7 @@ class OlderCoaster extends React.Component {
   render(
     return React.createElement('div', {},
       React.createElement('p', {}, 'You shouldn\'t look too far.'),
-      React.createElement('p', {}, 'Sometimes, the solution is right in front of you.:'),
+      React.createElement('p', {}, 'Sometimes, the solution is right in front of you.'),
       React.createElement('ul', {}, [
         React.createElement('li', {}, 'Agnes'),
         React.createElement('li', {}, 'Muriel'),
