@@ -3,7 +3,9 @@ import ReactDOM from 'react-dom';
 import React from 'react';
 
 class OlderCoaster extends React.Component {
-  render()
+  render(
+    
+  )
 }
 
 const BUTCHER_PRODUCTS = [
