@@ -6,7 +6,7 @@ class OlderCoaster extends React.Component {
   render(
     return React.createElement('div', {className="oldercoaster"},
       React.createElement('p', {}, 'Two grannies having the time of their life!'),
-      React.createElement
+      React.createElement('p')
 
     )
   )
