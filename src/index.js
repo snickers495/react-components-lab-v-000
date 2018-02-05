@@ -4,7 +4,7 @@ import React from 'react';
 
 class OlderCoaster extends React.Component {
   render(
-    return React.createElement('div', {className="oldercoaster"},
+    return React.createElement('div', {},
       React.createElement('p', {}, 'Two grannies having the time of their life!'),
       React.createElement('p', {}, 'Passengers:'),
       React.createElement('ul', {}, [
